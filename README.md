@@ -131,10 +131,10 @@ Bu alanda, kullanıcıya ait temel bilgilerle birlikte şık bir menü sunulmakt
   ![Image](https://github.com/user-attachments/assets/fbc23439-9c8a-42d3-a817-7ea46b9f0025)
 
   ## 💫  Bu Proje Bana Neler Kattı?
-  💠 SOLID prensiplerini öğrenmemi ve gerçek projede uygulayarak pekiştirmemi sağladı.
-  💠 N-Katmanlı mimari ile nasıl yapı kurulacağını detaylıca öğrenmeme yardımcı oldu.
-  💠 Pop-up yapılarını daha bilinçli şekilde kullanabilme pratiği kazandırdı.
-  💠 Doğrulama (validation) süreçlerini etkili biçimde yönetmeyi öğretti.
-  💠 ASP.NET MVC yapısında uygulamalı gelişim sağladım.
-  💠 Hata sayfalarının entegrasyonu ile kullanıcı deneyimini artırmayı öğrendim.
-  💠 Code First yaklaşımıyla migration işlemlerini daha iyi kavrayarak pekiştirdim.
+  💠 SOLID prensiplerini öğrenmemi ve gerçek projede uygulayarak pekiştirmemi sağladı.</br>
+  💠 N-Katmanlı mimari ile nasıl yapı kurulacağını detaylıca öğrenmeme yardımcı oldu.</br>
+  💠 Pop-up yapılarını daha bilinçli şekilde kullanabilme pratiği kazandırdı.</br>
+  💠 Doğrulama (validation) süreçlerini etkili biçimde yönetmeyi öğretti.</br>
+  💠 ASP.NET MVC yapısında uygulamalı gelişim sağladım.</br>
+  💠 Hata sayfalarının entegrasyonu ile kullanıcı deneyimini artırmayı öğrendim.</br>
+  💠 Code First yaklaşımıyla migration işlemlerini daha iyi kavrayarak pekiştirdim.</br>
